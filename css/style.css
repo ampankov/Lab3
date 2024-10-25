@@ -1,10 +1,10 @@
 @font-face {
     font-family: roboto;
-    src: url(/font/RobotoCondensed-Regular.ttf);
+    src: url(../font/RobotoCondensed-Regular.ttf);
 }
 @font-face {
     font-family: raleway;
-    src: url(/font/Raleway.ttf);
+    src: url(../font/Raleway.ttf);
 }
 .menu-hamburger{
     display: none;
