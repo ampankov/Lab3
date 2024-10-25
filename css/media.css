@@ -1,10 +1,11 @@
-@media (max-width: 950px)
+@media (max-width: 800px)
 {
-    .menu{
-        display: none;
-    }
     .menu-hamburger{
         display: block;
+        position: absolute;
+    }
+    .menu{
+        display: none;
     }
     .header{
         margin-top: 10%;
