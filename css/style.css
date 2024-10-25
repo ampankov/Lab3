@@ -12,7 +12,7 @@
 .title{
     display: flex;
     flex-direction: column;
-    background: url(/img/Rectangle\ 75.png);
+    background: url(../img/Rectangle.png);
     width: 100%;
     height: auto;
     aspect-ratio: 1.778/1;
